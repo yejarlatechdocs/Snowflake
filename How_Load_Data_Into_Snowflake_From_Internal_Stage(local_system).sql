@@ -14,8 +14,7 @@
 //	5. Create named internal Stage
 //	6. Put file into internal stage by executing below command via snowsql command line
 //	7. Load the data into snowflake table by using COPY INTO
-	
-	
+		
 
 // Install snowsql in windows system
 //		 a. Download snowsql by navigating below path
@@ -61,8 +60,7 @@ CREATE TABLE customer (
 					State 	 STRING,
 					Company  STRING,
 					Contact	 STRING 
-						);
-						
+						);						
 
 //Create file format with reference of feed file
 
